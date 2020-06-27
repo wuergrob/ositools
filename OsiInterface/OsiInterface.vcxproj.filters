@@ -386,7 +386,6 @@
     <None Include="LuaScripts\Game.Tooltip.lua">
       <Filter>Source Files\Scripts</Filter>
     </None>
-    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="OsiInterface.rc">
